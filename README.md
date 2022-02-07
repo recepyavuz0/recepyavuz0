@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=caferyavuz&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caferyavuz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
