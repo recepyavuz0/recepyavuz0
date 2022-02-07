@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Recep Cafer Yavuz</h1>
-<h3 align="center">I love on Backend development</h3>
 
 - 🌱 I’m currently learning **NodeJS**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caferyavuz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
