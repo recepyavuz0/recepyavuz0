@@ -4,10 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caferyavuz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/recepcaferyavuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="recepcaferyavuz" height="30" width="40" /></a>
-<a href="https://instagram.com/recepcafer.y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="recepcafer.y" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/caferyavuz134" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="caferyavuz134" height="30" width="40" /></a>
 </p>
 
