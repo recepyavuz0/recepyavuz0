@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caferyavuz&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=recepyavuz0&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
 <a href="https://linkedin.com/in/recepcaferyavuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="recepcaferyavuz" height="30" width="40" /></a>
