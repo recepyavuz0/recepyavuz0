@@ -48,7 +48,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=recepyavuz0&show_icons=true&locale=en" alt="recepyavuz0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=recepyavuz0&" alt="recepyavuz0" /></p>
-
-
 ###
