@@ -44,8 +44,4 @@
 ###
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=recepyavuz0&show_icons=true&locale=en&layout=compact" alt="recepyavuz0" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=recepyavuz0&show_icons=true&locale=en" alt="recepyavuz0" /></p>
-
 ###
